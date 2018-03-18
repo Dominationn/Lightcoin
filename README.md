@@ -1,0 +1,2 @@
+# Lightcoin
+A Revoulotionaire Cryptocurency
